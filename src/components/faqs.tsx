@@ -7,21 +7,17 @@ import { cn } from '@/lib/utils';
 
 const data = [
     {
-        title: 'Would you build WebApp for me?',
-        content: 'Definitely.',
+        title: 'Nationality?',
+        content: 'Indian 🇮🇳',
     },
     {
-        title: 'Free of charge?',
-        content: 'Sorry. However I could make you a free WebApp for 1 year Discord nitro though.',
+        title: 'Experience?',
+        content: 'Been programming for more than 5 years.',
    },
     {
-        title: 'Pricing?',
-        content: '$15 for single-paged WebApp, $30 for doubly-paged, $70/90+ for multiple-paged.',
+        title: 'Skills?',
+        content: 'Basically lotta Frontend Frameworks, MERN, PERN, and SqlERN stack. JAVA, Python, C/C++',
         },
-    {
-        title: 'Are you guys a team?',
-        content: "No, I'm an Indie. Anyways, I gurrantee you a fully functional Urban-Advanced WebApp.",
-         }
 ];
 
 export function FAQS() {
