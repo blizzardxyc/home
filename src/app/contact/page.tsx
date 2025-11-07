@@ -7,9 +7,8 @@ import HoverExpand from '@/components/ui/hover-expand';
 
 function Contact() {
     const customCommandMap = {
-        WhatsApp: '+91 6299 567 909',
-        Telegram: 'https://t.me/only_Abhyudaya',
-        Email: 'mailto:Abhyudaya6202@gmail.com'
+        WhatsApp: 'https://wa.me/918207747495',
+        Email: 'mailto:advwastaken@gmail.com'
     };
 
     const images = [
