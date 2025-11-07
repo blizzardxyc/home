@@ -186,11 +186,7 @@ const cards = [
         ctaText: 'About me',
         content: () => (
             <p>
-                I am Adwitya Deep Verma, a 3rd-year B-Tech student in Electronics and Communication Engineering (ECE)
-                with a passion for cybersecurity. I have completed a Cyber Defense diploma from Cybervidyapeeth,
-                demonstrating my commitment to the field. In addition to my academic pursuits, I have also obtained
-                certifications in Open-Source Intelligence (OSInt) and Digital Forensics. As an active cybersecurity
-                enthusiast, I am driven to stay up-to-date with the latest trends and advancements in the field.
+                I am Abhyudaya Deep Verma, a 1st-year B-Tech student. I like coffee and to code.
             </p>
         )
     }
